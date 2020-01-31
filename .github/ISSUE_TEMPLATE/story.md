@@ -2,7 +2,7 @@
 name: Story
 about: This would be a story.
 title: ''
-labels: ''
+labels: story
 assignees: ''
 
 ---
