@@ -1,9 +1,13 @@
-Please ensure your pull request adheres to the following guidelines:
+IMPORTANT: Please do not create a Pull Request without creating an issue first.
 
-- [ ] Use the following format: `* [owner/repo](link)`
-- [ ] Link additions should be added to the bottom of the relevant category.
-- [ ] New categories or improvements to the existing categorization are welcome.
-- [ ] Search previous suggestions before making a new one, as yours may be a duplicate.
-- [ ] Sort by alphabetical order
+Any change needs to be discussed before proceeding. Failure to do so may result in the rejection of the pull request.
 
-Thanks for contributing!
+Please provide enough information so that others can review your pull request:
+
+Demonstrate the code is solid. Example: The exact commands you ran and their output, screenshots / videos if the pull request changes UI.
+
+Code formatting
+
+Closing issues
+
+Put closes #XXXX in your comment to auto-close the issue that your PR fixes (if such).
